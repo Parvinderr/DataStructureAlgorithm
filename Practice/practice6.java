@@ -1,4 +1,4 @@
-// Finding Counts of a Digit
+// Finding Count of a Digit of number
 
 public class Main {
 
