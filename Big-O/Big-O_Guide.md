@@ -1,6 +1,6 @@
 <h1> Big-O </h1>
 
-<p> Two Important Factors Which Demonstrate A Good Code And Bad Code. </p><br>
+<p> For Writing Good Code Two Important Factors Are There </p><br>
 
 <h3>Important Factors For Good Code: </h3>
 <ul>
@@ -8,7 +8,6 @@
 <li>Scalable</li>
 </ul>
 
-<p> Two Factors Are Important For Scalability </p><br>
 <h3>Important Factors For Scalability: </h3>
 <ul>
 <li>Time Complexity</li>
