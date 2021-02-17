@@ -21,6 +21,10 @@ class Main {
   }
 }
 
+//Note: In This Program Our Loop is Running N-times whether it finds Archie at first element of array or at last element of array.So Big-O is O(n)
+
+
+
 
 // For Finding Big-O Of This Program We Have To Use The Rule.
 // Rule 1 := Find The Worst Case --> In This Case Worst Case is When Archie is at Last Position in Array.
@@ -28,6 +32,3 @@ class Main {
 // Rule 3 := Different Value For Different Inputs --> There is Single Input in this Program.
 // Rule 4 := Drop Non Dominant --> No Dominant in this Program.
 
-
-
-//In This Program Our Loop is Running N-times whether it finds Archie at first element of array or at last element of array.So Big-O is O(n)
