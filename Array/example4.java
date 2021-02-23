@@ -1,4 +1,4 @@
-
+// Sum Of Numbers in array
 
 
 import java.io.*;
