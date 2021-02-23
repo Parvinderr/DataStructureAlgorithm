@@ -1,4 +1,4 @@
-// Find element in unknown Rotated Array in O(logn)
+// Find element in unknown Rotated Array in less than O(n)
 
 public class Main{
   
